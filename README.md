@@ -149,14 +149,4 @@ STATE=CLOSED ANGLE=0 DIST=45.2 MOTION=0 HOLD_MS=5000 SAFEDIST=20 SPEED=50
 └── docs/                 # Report, diagrams, screenshots (optional)
 ```
 
----
 
-## Author
-
-- **[ Your Name ]** — [ Your Student ID ]
-- APIIT Sri Lanka | University of Staffordshire
-- Module: COMP50069 – Hardware, Microcontrollers and Sensors
-
-## License
-
-Created for academic assessment. Free to reference for educational purposes.
